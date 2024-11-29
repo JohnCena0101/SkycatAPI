@@ -6,4 +6,3 @@ pysocks
 colorama 
 cloudscraper
 request
-API key : skyran
